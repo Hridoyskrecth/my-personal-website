@@ -1,66 +1,131 @@
-                                        body {
-                                            font-family: 'Lato', sans-serif;
-                                        }
-                                        
-                                        h1 {
-                                            font-size: 56px;
-                                        }
-                                        
-                                        .name-a {
-                                            color: rgb(6, 6, 82);
-                                        }
-                                        
-                                        section {
-                                            height: 500px;
-                                            padding-bottom: 50px;
-                                        }
-                                        
-                                        .name-b {
-                                            color: rgb(255, 166, 0);
-                                        }
-                                        
-                                        .half-width {
-                                            width: 20%;
-                                            float: left;
-                                            margin-left: 5%;
-                                            padding-left: 5%;
-                                        }
-                                        
-                                        .half-width img {
-                                            width: 100%;
-                                        }
-                                        
-                                        .anchor-button {
-                                            text-decoration: none;
-                                            background-image: linear-gradient(50deg, lightsalmon, rgb(255, 99, 71));
-                                            padding: 10px 20px;
-                                            border-radius: 5px;
-                                            color: white;
-                                            font-weight: 700;
-                                        }
-                                        
-                                        .working-project {
-                                            text-align: center;
-                                            background-color: rgb(241, 241, 241);
-                                        }
-                                        
-                                        .work-inquery {
-                                            background-image: url(images/bg.png);
-                                            height: 200px;
-                                            margin-top: 100px;
-                                            background-position: left;
-                                            background-repeat: no-repeat;
-                                            border-radius: 50px;
-                                            padding: 70px 50px;
-                                            ;
-                                        }
-                                        
-                                        .down {
-                                            color: white;
-                                            margin: 0;
-                                            padding: 0;
-                                        }
-                                        
-                                        .lets-chat {
-                                            text-align: right;
-                                        }
+                            body {
+                                font-family: 'Lato', sans-serif;
+                                width: 100%;
+                            }
+                            
+                            h1 {
+                                font-size: 56px;
+                            }
+                            
+                            .top-banner {
+                                margin-top: 20px;
+                                margin-left: 60px;
+                            }
+                            
+                            p {
+                                text-align: justify;
+                            }
+                            
+                            .image {
+                                margin-left: 310px;
+                            }
+                            
+                            .about-text {
+                                margin-left: 312px;
+                            }
+                            
+                            .name-a {
+                                color: rgb(6, 6, 82);
+                            }
+                            
+                            section {
+                                height: 450px;
+                                width: 100%;
+                                padding: 100px 0px;
+                            }
+                            
+                            .align {
+                                width: 80%;
+                                margin: auto;
+                                padding-left: 251px;
+                            }
+                            
+                            .name-b {
+                                color: rgb(255, 166, 0);
+                            }
+                            
+                            .half-width {
+                                width: 20%;
+                                float: left;
+                                padding-left: 8%;
+                                margin-top: 50px;
+                            }
+                            
+                            .half-width img {
+                                width: 100%;
+                                padding: 2%;
+                                margin-left: px;
+                            }
+                            
+                            .design {
+                                box-shadow: grey 3px 2px 20px;
+                                background-color: white;
+                                margin: 0 35px;
+                                padding: 20px 10px;
+                                border-radius: 5px;
+                            }
+                            
+                            .anchor-button {
+                                text-decoration: none;
+                                background-image: linear-gradient(50deg, lightsalmon, rgb(255, 99, 71));
+                                padding: 10px 20px;
+                                border-radius: 5px;
+                                color: white;
+                                font-weight: 700;
+                                margin-top: 10px;
+                                display: inline-block;
+                            }
+                            
+                            .working-project {
+                                background-color: rgb(228, 222, 222);
+                                height: 630px;
+                            }
+                            
+                            h2 {
+                                text-align: center;
+                                padding-bottom: 46px;
+                                font-size: 40px;
+                            }
+                            
+                            .work-inquery {
+                                margin-top: 100%;
+                                background-image: url(images/bg.png);
+                                height: 187px;
+                                width: 60%;
+                                margin: 0px 300px 75px;
+                                background-position: left;
+                                padding: 70px 50px;
+                                border-radius: 40px;
+                                float: left;
+                            }
+                            
+                            .work {
+                                height: 200px;
+                            }
+                            
+                            .text {
+                                float: left;
+                                margin-top: 40px;
+                            }
+                            
+                            .text-1 {
+                                float: right;
+                                margin-top: 80px;
+                            }
+                            
+                            footer {
+                                text-align: center;
+                            }
+                            
+                            section h1 {
+                                color: white;
+                                font-size: 46px;
+                            }
+                            
+                            .icon img {
+                                width: 52px;
+                            }
+                            
+                            h3 {
+                                font-size: 40px;
+                            }
